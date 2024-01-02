@@ -1,6 +1,7 @@
 ### Hi there👋, I am Kaushik 🧑🏽‍💻 
 
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png) -->
+
 
 
 
