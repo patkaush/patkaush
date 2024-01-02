@@ -1,9 +1,10 @@
-### Hi there 👋
-
-**patkaush/patkaush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there👋, I am Kaushik 🧑🏽‍💻 
 
 ![Header](./github-header-image.png)
 
+
+
+As a Computer Science graduate student, having two years of industry experience in software development, I am actively seeking for summer-2024 internships that will allow me to further implement and refine my technical expertise, where I am eager to contribute to real-world projects, learn from experienced professionals, and take an active role in advancing the field of computer science.
 
 Here are some ideas to get you started:
 
