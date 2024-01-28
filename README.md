@@ -10,4 +10,5 @@ I am a computer science graduate student with two years of prior software develo
 
 - 🎓 Masters in Computer Science / University of Omaha. 
 - 🔭 I’m currently working on Reinforcement Learning and Deep learning.
+- Solving one LeetCode problem daily. 
 
